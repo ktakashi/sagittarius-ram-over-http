@@ -6,6 +6,8 @@ This is a utility library of RAM over Http.
 Pre-condition
 =======
 This library uses
+[sagittarius-smart-card](https://github.com/ktakashi/sagittarius-smart-card).
+This needs to be located in the sitelib path.
 
 
 How to use
