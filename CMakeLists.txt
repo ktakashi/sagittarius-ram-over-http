@@ -13,7 +13,7 @@ EXECUTE_PROCESS(
 
 
 
-INSTALL(FILES ram-oever-http.scm
+INSTALL(FILES ram-over-http.scm
   DESTINATION ${SAGITTARIUS_SITE_LIB_DIR}/)
 
 # uninstall target
